@@ -1,18 +1,18 @@
 <p align="center">
 <a href="https://github.com/maranathaadesanya">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Maranatha+Adesanya;Back-end+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Maranatha+Adesanya;Software+Engineer+%7C+Back-end+Engingeer+%7C+Data+Analyst;Chemist" alt="Typing SVG" />
 </a>
 <br/>
   
-<a href="https://drive.google.com/file/d/1NdKXa_23dGpu0SS_1LjOHe_maZfp9MEI/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1BYWziMLfqMuIw7UFQgb-TnXkep2CIedr/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 
-<a href="https://www.linkedin.com/in/maranathaadesanya/">
+<a href="https://www.linkedin.com/in/maranatha-adesanya-561b40168?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 
-<a href="mailto:maranathaadesanya@gmail.com">
+<a href="mailto:adesanyamaranatha@yahoo.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
   
@@ -40,8 +40,6 @@ My Github Stats
 #### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
